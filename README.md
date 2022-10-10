@@ -13,4 +13,8 @@
 - [GitHub万字图文详解教程](https://zhuanlan.zhihu.com/p/369486197) `from 吴师兄学算法` share by HongXunPan at 2022-10-10
 
 
-#### 基本教程
+#### 常用学习网站
+- [菜鸟教程](https://www.runoob.com/)
+- [w3cschool](https://www.w3school.com.cn/index.html)
+- [慕课网](https://www.imooc.com/)
+- [51cto学院](https://edu.51cto.com/)
