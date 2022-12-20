@@ -26,3 +26,6 @@
 - [慕课网](https://www.imooc.com/)
 - [51cto学院](https://edu.51cto.com/)
 - [PHP](https://www.php.net/)
+
+### 收藏夹 
+ - [PHP/Python/前端/Linux 等等 学习笔记](https://www.kancloud.cn/idcpj/python/418553)
